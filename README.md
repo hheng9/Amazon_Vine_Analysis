@@ -23,3 +23,10 @@
 
 * ### The unpaid percentage of 5-star reviews is around 52.
 ![D2-6](https://user-images.githubusercontent.com/118647523/230822536-7928b460-654a-455b-a4d2-8cfa89a07eef.png)
+
+## Summary
+### Based on the calculations above, the unpaid reviews have a higher percentage of 5-star ratings compared to the paid reviews. The percentage of 5-star ratings for paid reviews is 40.24%, while the percentage of 5-star ratings for unpaid reviews is 51.76%. This indicates that there may be bias in the reviews, as the unpaid reviews have a significantly higher percentage of positive ratings.
+
+To draw any conclusions about the presence of bias, additional analysis is needed. It would be useful to investigate whether the products being reviewed are similar in both the paid and unpaid reviews. It may also be helpful to compare the language and content of the reviews to determine if there are any differences in the way paid and unpaid reviewers are describing the products.
+
+The sample size for paid reviews is much smaller than that of unpaid reviews with only 82 paid reviews compared to 24,742 unpaid reviews. This may also impact the reliability of the results and the ability to draw accurate conclusions about bias in the reviews.
