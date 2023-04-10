@@ -4,6 +4,7 @@
 ### The task is to analyze US reviews in the automotive category written by members of the paid Amazon Vine program using PySpark libraries. Around 50 datasets are provided and the objective is to extract the data, transform it, connect to an AWS RDS instance, and load the transformed data into pgAdmin. A dataset will be chosen and transformed into four separate DataFrames that match the table schema in pgAdmin. The transformed data will be uploaded into the appropriate tables, and queries will be run in pgAdmin to confirm data upload. The analysis will determine if there is bias towards favorable reviews from Vine members, by analyzing if having a paid Vine review makes a difference in the percentage of 5-star reviews, and a summary of the analysis will be provided for stakeholders.
 
 ## Results 
+### the images listed below show the total number of reviews, the number of 5-star reviews, and the percentage of 5-star reviews for the two types of paid vs unpaid reviews.
 
 ![D2-1](https://user-images.githubusercontent.com/118647523/230822469-9857c55d-2aad-41d4-ad9b-ffe0e05f9fe2.png)
 
