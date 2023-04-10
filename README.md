@@ -6,10 +6,13 @@
 ## Results 
 ### the images listed below show the total number of reviews, the number of 5-star reviews, and the percentage of 5-star reviews for the two types of paid vs unpaid reviews.
 
+* ### The paid total number of reviews is 82.
 ![D2-1](https://user-images.githubusercontent.com/118647523/230822469-9857c55d-2aad-41d4-ad9b-ffe0e05f9fe2.png)
 
+* ### The paid number of 5-star reviews is 33.
 ![D2-2](https://user-images.githubusercontent.com/118647523/230822498-366347b1-63d4-4d4a-a698-751702365377.png)
 
+* ### The paid percentage of 5-star reviews is around 40.
 ![D2-3](https://user-images.githubusercontent.com/118647523/230822503-74e256cb-9a4e-4f4f-9b07-82966ea0a67a.png)
 
 ![D2-4](https://user-images.githubusercontent.com/118647523/230822506-a865b887-25ac-4d88-a83c-d2d04c609cbe.png)
